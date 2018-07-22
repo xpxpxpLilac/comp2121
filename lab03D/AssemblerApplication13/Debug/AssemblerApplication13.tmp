@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>E:\atmel\AssemblerApplication13\AssemblerApplication13\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:\Atmel\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>E:\atmel\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:\Atmel\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\Debug\AssemblerApplication13.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication13.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication13.map</FILE>
+  <FILE>AssemblerApplication13.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SecondCounter><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>15</LINE></SecondCounter>
+  <TempCounter><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>16</LINE></TempCounter>
+  <RESET><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>26</LINE></RESET>
+  <DEFAULT><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>24</LINE></DEFAULT>
+  <Timer0OVF><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>34</LINE></Timer0OVF>
+  <main><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>76</LINE></main>
+  <NotSecond><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>65</LINE></NotSecond>
+  <oneMinute><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>90</LINE></oneMinute>
+  <here><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>56</LINE></here>
+  <EndIF><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>68</LINE></EndIF>
+  <loop><FILE>E:\atmel\AssemblerApplication13\AssemblerApplication13\main.asm</FILE><LINE>89</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>E:\atmel\AssemblerApplication14\AssemblerApplication14\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:\Atmel\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>E:\atmel\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:\Atmel\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\Debug\AssemblerApplication14.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication14.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication14.map</FILE>
+  <FILE>AssemblerApplication14.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>13</LINE></RESET>
+  <main><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>21</LINE></main>
+  <loop><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>25</LINE></loop>
+  <sleep_1000ms><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>55</LINE></sleep_1000ms>
+  <oneMinute><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>65</LINE></oneMinute>
+  <here><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>34</LINE></here>
+  <sleep_1ms><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>37</LINE></sleep_1ms>
+  <delayloop_1ms><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>42</LINE></delayloop_1ms>
+  <sleep_5ms><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>48</LINE></sleep_5ms>
+  <sloop><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>57</LINE></sloop>
+  <increase><FILE>E:\atmel\AssemblerApplication14\AssemblerApplication14\main.asm</FILE><LINE>61</LINE></increase>
+ </LABELS>
+</ASSEMBLER_INFO>
